@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export Konzept.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="9.83765in" height="3.08887in"
+		viewBox="0 0 708.311 222.398" xml:space="preserve" color-interpolation-filters="sRGB" class="st8">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:prompt="" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {marker-end:url(#mrkr14-16);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st3 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.16556291390728}
+		.st4 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st5 {fill:#000000;font-family:Calibri;font-size:1.5em}
+		.st6 {fill:#feffff;stroke:#000000;stroke-linecap:butt;stroke-width:1.25}
+		.st7 {font-size:1em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend14">
+			<path d="M 3 -1 L 0 0 L 3 1 L 3 -1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr14-16" class="st3" v:arrowType="14" v:arrowSize="2" v:setback="17.4" refX="-17.4" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend14" transform="scale(-6.04,-6.04) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>Zeichenblatt-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Verbinder" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(18.25,-90.7625)">
+			<title>Akteur</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 222.4 L6.8 186.97 L6.8 201.14 L0 201.14 L0 172.79 L3.4 169.25 L30.61 169.25 L34.02 172.79 L34.02 201.14
+						 L27.21 201.14 L27.21 186.97 L27.21 222.4 L17.01 222.4 L17.01 194.05 L17.01 222.4 L6.8 222.4 ZM24.09 158.62
+						 A7.08661 7.08661 -180 1 0 9.92 158.62 A7.08661 7.08661 -180 1 0 24.09 158.62 Z" class="st1"/>
+		</g>
+		<g id="shape2-3" v:mID="2" v:groupContext="shape" transform="translate(573.841,-90.7625)">
+			<title>Akteur.2</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 222.4 L6.8 186.97 L6.8 201.14 L0 201.14 L0 172.79 L3.4 169.25 L30.61 169.25 L34.02 172.79 L34.02 201.14
+						 L27.21 201.14 L27.21 186.97 L27.21 222.4 L17.01 222.4 L17.01 194.05 L17.01 222.4 L6.8 222.4 ZM24.09 158.62
+						 A7.08661 7.08661 -180 1 0 9.92 158.62 A7.08661 7.08661 -180 1 0 24.09 158.62 Z" class="st1"/>
+		</g>
+		<g id="shape4-5" v:mID="4" v:groupContext="shape" transform="translate(613.526,-133.282)">
+			<title>Akteur.4</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 222.4 L6.8 186.97 L6.8 201.14 L0 201.14 L0 172.79 L3.4 169.25 L30.61 169.25 L34.02 172.79 L34.02 201.14
+						 L27.21 201.14 L27.21 186.97 L27.21 222.4 L17.01 222.4 L17.01 194.05 L17.01 222.4 L6.8 222.4 ZM24.09 158.62
+						 A7.08661 7.08661 -180 1 0 9.92 158.62 A7.08661 7.08661 -180 1 0 24.09 158.62 Z" class="st1"/>
+		</g>
+		<g id="shape6-7" v:mID="6" v:groupContext="shape" transform="translate(613.526,-55.3294)">
+			<title>Akteur.6</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 222.4 L6.8 186.97 L6.8 201.14 L0 201.14 L0 172.79 L3.4 169.25 L30.61 169.25 L34.02 172.79 L34.02 201.14
+						 L27.21 201.14 L27.21 186.97 L27.21 222.4 L17.01 222.4 L17.01 194.05 L17.01 222.4 L6.8 222.4 ZM24.09 158.62
+						 A7.08661 7.08661 -180 1 0 9.92 158.62 A7.08661 7.08661 -180 1 0 24.09 158.62 Z" class="st1"/>
+		</g>
+		<g id="shape7-9" v:mID="7" v:groupContext="shape" transform="translate(656.045,-90.7625)">
+			<title>Akteur.7</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M6.8 222.4 L6.8 186.97 L6.8 201.14 L0 201.14 L0 172.79 L3.4 169.25 L30.61 169.25 L34.02 172.79 L34.02 201.14
+						 L27.21 201.14 L27.21 186.97 L27.21 222.4 L17.01 222.4 L17.01 194.05 L17.01 222.4 L6.8 222.4 ZM24.09 158.62
+						 A7.08661 7.08661 -180 1 0 9.92 158.62 A7.08661 7.08661 -180 1 0 24.09 158.62 Z" class="st1"/>
+		</g>
+		<g id="shape57-11" v:mID="57" v:groupContext="shape" v:layerMember="0" transform="translate(52.2657,-138.154)">
+			<title>Verallgemeinerung</title>
+			<desc>monatlicher Beitrag</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="99.5971" cy="187.25" width="156.97" height="29.6036"/>
+			<path d="M0 222.4 C68.4 174.3 156.34 183.05 195.99 198.13 L196.32 198.27" class="st2"/>
+			<rect v:rectContext="textBkgnd" x="27.1532" y="176.45" width="144.888" height="21.5999" class="st4"/>
+			<text x="27.15" y="192.65" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>monatlicher Beitrag</text>		</g>
+		<g id="shape58-19" v:mID="58" v:groupContext="shape" v:layerMember="0" transform="translate(304.714,-79.9032)">
+			<title>Verallgemeinerung.58</title>
+			<desc>Auszahlung im Schadensfall</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-141.727" cy="274.135" width="213.59" height="29.6036"/>
+			<path d="M0 219.08 C-11.09 285.62 -256.67 298.53 -273.68 220.55 L-273.72 220.19" class="st2"/>
+			<rect v:rectContext="textBkgnd" x="-242.484" y="263.335" width="201.516" height="21.5999" class="st4"/>
+			<text x="-242.48" y="279.54" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Auszahlung im Schadensfall</text>		</g>
+		<g id="shape59-26" v:mID="59" v:groupContext="shape" v:layerMember="0" transform="translate(334.519,-80.4721)">
+			<title>Verallgemeinerung.59</title>
+			<desc>Rendite</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="126.948" cy="265.439" width="90" height="29.6036"/>
+			<path d="M0 218.52 C28.77 275.75 163.86 288.01 249.45 218.01 L249.73 217.77" class="st2"/>
+			<rect v:rectContext="textBkgnd" x="98.5683" y="254.64" width="56.7598" height="21.5999" class="st4"/>
+			<text x="98.57" y="270.84" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Rendite</text>		</g>
+		<g id="shape62-33" v:mID="62" v:groupContext="shape" v:layerMember="0" transform="translate(574.425,-140.977)">
+			<title>Verallgemeinerung.62</title>
+			<desc>Investition</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-106.201" cy="183.618" width="90" height="29.6036"/>
+			<path d="M0 222.4 C-51.04 176.46 -166.34 173.59 -210.23 195.17 L-210.54 195.35" class="st2"/>
+			<rect v:rectContext="textBkgnd" x="-144.895" y="172.819" width="77.3877" height="21.5999" class="st4"/>
+			<text x="-144.9" y="189.02" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Investition</text>		</g>
+		<g id="shape63-40" v:mID="63" v:groupContext="shape" transform="translate(226.772,-83.011)">
+			<title>Objekt</title>
+			<desc>komplexes Versicherungsprodukt</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visDescription" v:val="VT4(Fügt ihrem Systemdiagramm ein Systemobjekt hinzu.)"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="86.3691" cy="179.214" width="172.74" height="86.3691"/>
+			<ellipse cx="86.3691" cy="179.214" rx="86.3691" ry="43.1845" class="st6"/>
+			<text x="47.17" y="173.81" class="st5" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>komplexes <tspan
+						x="5.52" dy="1.2em" class="st7">Versicherungsprodukt</tspan></text>		</g>
+	</g>
+</svg>
