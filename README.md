@@ -1,10 +1,10 @@
 
-https://dhentschel06.github.io
+https://mfabinski.github.io
 
 # SmartInsurance
 
 ## Struktur
-In praesentationphase1 befindet sich die erste Präsentation, die der Auftragsklärung mit dem Kunden dient. (Vortragstermin: 27.01.2016)
+In praesentationphase3 befindet sich die Abschlusspräsentation, die dem Projektabschluss mit dem Kunden dient. (Vortragstermin: 27.07.2016)
 
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
