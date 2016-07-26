@@ -49,27 +49,28 @@
 			<!-- Any section element inside of this container is displayed as a slide -->
 			<div class="slides">
 				<section data-state="no-title-footer">
-					<h2>Auftragsklärung <br>- Crowd Insurance -</h2><br><br>
+					<h2>Abschlusspräsentation <br>- Smart Insurance -</h2><br><br>
 					<img src="img/logo.png" style="border:0;opacity:1;" align="right" width="30%"><br>
-					<a style="text-align:right">Smart Insurance<br>
+					<a style="text-align:right">
 					- Gemeinsam stark versichert -</a>
 				</section>
 
 				<section> <!-- Wer sind wir Hauptpunkt 1 -->
-					<section> <!-- Alle Folien zu Hauptpunkt 1	-->
-						<h2>Wer sind wir? (1/3)</h2>
+                    <section> <!-- Versicherungsmarkt	-->
+						<h2>Versicherungsfakten</h2>
 						<ul>
-							<li>Studenten der DHBW Mannheim</li>
-							<li>5. Semester im Studiengang Wirtschaftsinformatik (Software Engineering)</li>
-							<li>Referenzprojekte</li>
-							<ul>
-								<li>Projektplanung: DigitalFraTour</li>
-								<li>Projektplanung und Durchführung: Brauereiwirtschaftssimulationsspiel</li>
-							</ul>
+							<li>Marktvorlumen</li>
+							
 						</ul>
 					</section>
+					<section class="center"> <!-- Was bieten wir	-->
+						
+                        <h2>Wir bieten einen Distributed Marketspace auf dem wir Versicherungsnehmer und Investoren zusammenbringen!
+</h2>
+						
+					</section>
 					<section> <!-- Alle Folien zu Hauptpunkt 1	-->
-						<h2>Vorstellung der Teammitglieder (2/3)</h2>
+						<h2>Das Team</h2>
 						<table class="reveal">
 							<TR>
 								<TH><img src="img/hentschel_david.png"></TH>
@@ -89,29 +90,141 @@
 							</TR>
 						</table>
 					</section>
-					<section> <!-- Alle Folien zu Hauptpunkt 1	-->
-						<h2>Scrum-Rollen (3/3)</h2>
-						<ul>
-							<li>Product-Owner: David Hentschel</li>
-							<li>Scrum-Master: Jannik Emmerichs</li>
-							<li>Entwicklerteam:</li>
-							<ul>
-								<li>Yannik Bart</li>
-								<li>Matthias Fabinsiki</li>
-								<li>Lars Röhrich</li>
-								<li>Lisa Zuyeva</li>
-							<ul>
-					</section>
+					
 				</section>
-
-				<section> <!--  -->
-					<section class="center">
-						<h2>Konzeptskizze</h2>
+                <section class="left"> <!-- Agenda	-->
+                    <h2>Agenda</h2>
+                    <ol>
+                        <li>Projektziele</li>
+                        <li>Phasen des Projekts</li>
+                        <li>Prinzip der App</li>
+                        <li>Nutzen</li>
+                        <li>Entwicklungsprozess</li>
+                        <ol>
+                            <li>Projektvorgehen</li>
+                            <li>Methoden und Modelle</li>
+                            <li>Architektur</li>
+                        </ol>
+                        <li>Demo</li>
+                        <li>Ausblick</li>
+                    </ol>
+				</section>
+                <section>
+                    <section> <!-- Projektziele	-->
+                        <h2>Projektziele (1/2)</h2>
+                            <h3>Vorgehensziele</h3>
+                            <ul>
+                                <li>Terminziel: 29. Juli 2016</li>
+                                <li>Kostenziel: 15.480 €</li>
+                                <li> Qualitätssicherunsziele</li>
+                                <ul>
+                                    <li>Test-Driven-Development</li>
+                                    <li>GitLab Issues</li>
+                                    <li>Schnittstellendokumentation</li>
+                                </ul>
+                            </ul>    
+                    </section>
+                    <section> <!-- Projektziele	-->
+                        <h2>Projektziele (2/2)</h2>
+                            <h3>Ergebnisziele</h3>
+                            <ul>
+                                <li>Entwicklung einer Cross-Platform-App im Anwendungsbereich Smart Insurance mit einer Anbindung an einen Distributed Market Space (DMS)
+    </li>
+                                <li>Dabei soll folgendes beachtet werden:</li>
+                                <ul>
+                                    <li>Abstimmung der Anforderungen mit dem Auftraggeber
+    </li>
+                                    <li>API zwischen App und Backend</li>
+                                    <li>Self-Hosted mobile Backend as a Service</li>
+                                    <li>Nutzung einer gemeinsamen Backend-Architektur mit den Partner-IT-Projekten</li>
+                                    <li>Unterstützung einer Kunden- und Anbieter-Seite </li>
+                                </ul>
+                            </ul>    
+                    </section>
+                </section>
+				<section> <!-- Phasen des Projekts  -->
+                    <section class="center">
+						<h2>Phasen des Projekts</h2> <!-- Bild phasen einfügen -->
 						<img height="650px" src="img/konzept_skizze.svg" style="border: none; box-shadow: none;">
 					</section>
-				</section>
+					<section class="center">
+						<h2>Das Prinzip</h2>
+						<img height="650px" src="img/konzept_skizze.svg" style="border: none; box-shadow: none;">
+					</section>
+                    <section class="center">
+						<h2>Der Nutzen</h2>
+						<ul>
+                            <li>Die App ermöglicht eine Anbindung an einen Distributd Market Space und bietet gleichermaßen für Kunden (Versicherungsnehmer) und Anbieter (Investoren) Unterstützung.
+    </li>
+                            <li>Durch Smart Insurance können Benutzer jederzeit und überall flexible, komplexe und individuelle Versicherungen erstellen und abschließen. Für Investoren wird eine rentable Geldanlage angeboten.
+</li>
+                            <li>Einnahmen werden durch den Anteil an den Versicherungsbeiträgen, den Zinsen aus der Verwaltung der Geldbeträge und der Gebühren für das Erstellen einer Versicherung erzielt.</li>
+                        </ul>
+					</section>
+                    <section class="center">
+						<h2>Das Vorgehensmodell</h2>
+                        <ul>
+                            <li>Wasserfallmodell</li>
+                            <li>evolutionäres Modell</li>
+                        </ul>
+						<img height="650px" src="img/konzept_skizze.svg" style="border: none; box-shadow: none;">
+					</section>
+                    <section class="center">
+                        <h2>Abstimmungsmeeting</h2> <!-- Bild von der Tabelle einfügen -->
+						<img height="650px" src="img/konzept_skizze.svg" style="border: none; box-shadow: none;">
+					</section>
+                    <section class="center">
+                        <h2>Methoden und Modelle: User Storys</h2> <!-- Bild von der Tabelle einfügen -->
+                        <img height="650px" src="img/konzept_skizze.svg" style="border: none; box-shadow: none;">
+                    </section>
+                    <section>
+                        <h2>Methoden und Modelle: Test-Driven-Development</h2> <!-- Bild von der Tabelle einfügen -->
 
-				<!-- ============================================================================ -->
+                    </section>
+                    <section>
+                        <h2>Methoden und Modelle: Continuous Integration</h2> <!-- Bild von der Tabelle einfügen -->
+                        <ul>
+                            <li>Automatische Ausführung von Tests und Buildprozessen zur Steigerung der Softwarequalität</li>
+                            <li>Merge nur erlaubt wenn alle Tests erfolgreich sind</li>
+                            <li>Automatisches Deployen auf den Testserver für getaggte Commits</li>
+                            <li>Vier definierte Stages:</li>
+                            <ul>
+                                <li>Build: Generieren der APK und Bau eines Dockercontainers</li>
+                                <li>Test: Ausführen der definierten Tests</li>
+                                <li>Release: Publish Dockercontainer to private container registry</li>
+                                <li>Deploy: Start des neuesten Dockercontainers auf dem Testserver</li>
+                            </ul>
+                        </ul>
+                    </section>
+                    <section>
+                        <h2>Methoden und Modelle: Continuous Integration</h2> <!-- Bild  einfügen -->
+                        <img height="650px" src="img/konzept_skizze.svg" style="border: none; box-shadow: none;">
+                    </section>
+                    <section>
+                        <h2>Architektur</h2> <!-- Bild  einfügen -->
+                        <img height="650px" src="img/konzept_skizze.svg" style="border: none; box-shadow: none;">
+                    </section>
+
+				</section>
+                <section>
+                    <h2>Demo</h2>
+                </section>
+                <section>
+                        <h2>Ausblick</h2> 
+                   
+                </section>
+                <section data-state="no-title-footer"> <!-- Zusammenfassung & Ausblick Hauptpunkt 4 -->
+					<section> <!-- Alle Folien zu Hauptpunkt 4	-->
+						<h2>Vielen Dank!</h2>
+						<br>
+						E-Mail: <a href="mailto:smartcrowdinsurance@gmail.com">smartcrowdinsurance@gmail.com</a><br>
+						Adresse: Coblitzallee 1-9, 68163 Mannheim
+					</section>
+				</section>
+                
+              
+<!--
+	 ============================================================================ -->
 				<!-- Projektvorstellung Hauptpunkt 2 -->
 				<!-- ============================================================================ -->
 				<section> <!-- Context-Modell -->
@@ -312,7 +425,7 @@
 					<section> <!-- Alle Folien zu Hauptpunkt 4	-->
 						<h2>Vielen Dank!</h2>
 						<br>
-						E-Mail: <a href="mailto:gregsbrauhaus@gmail.com">gregsbrauhaus@gmail.com</a><br>
+						E-Mail: <a href="mailto:smartcrowdinsurance@gmail.com">smartcrowdinsurance@gmail.com</a><br>
 						Adresse: Coblitzallee 1-9, 68163 Mannheim
 					</section>
 				</section>
