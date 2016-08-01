@@ -1,10 +1,10 @@
 
-https://dhentschel06.github.io
+https://mfabinski.github.io
 
 # SmartInsurance
 
 ## Struktur
-In praesentationphase1 befindet sich die erste Präsentation, die der Auftragsklärung mit dem Kunden dient. (Vortragstermin: 27.01.2016)
+In praesentationphase3 befindet sich die Abschlusspräsentation, die dem Projektabschluss mit dem Kunden dient. (Vortragstermin: 27.07.2016)
 
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
@@ -1028,6 +1028,4 @@ Some reveal.js features, like external Markdown and speaker notes, require that 
 
 ## License
 
-MIT licensed
-
-Copyright (C) 2016 Hakim El Hattab, http://hakim.se
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
